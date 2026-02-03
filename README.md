@@ -1,6 +1,6 @@
 - 👋 Hey, I am Taysir
 - Level I CS student at Mcmaster
-- 👀 I’m interested in alot of stuff, such as coding, speedcubing and mostly sleeping :3
+- 👀 I’m interested in alot of stuff, such as coding, speedcubing and mostly sleeping...
 
 
 <!---
